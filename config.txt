@@ -3,15 +3,15 @@
 # 公众号appId
 "app_id": "wx774d1b2e2858fb23",
 # 公众号appSecret
-"app_secret": "953d61a41eee273e70cdbad7dd8bb737",
+"app_secret": "b0207b604f9afed822c719ecf9107e86",
 # 模板消息id
-"template_id": "-32GhQfslqg4rafD0r38xjADhPJ78_4rmy2UY96P9M8",
+"template_id": "-5vX10MEW1pXi9P1e2xpXXM9g_8KRFM59Ie2w3RW0q6o",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"oHZlv6QqWypG1YmbpBEHktTipKyY": ["粘贴自己的，不是自己的微信号，而是扫描二维码后，右边的那个很长的一串字符"],
+"user": ["oHZlv6QqWypG1YmbpBEHktTipKyY","oHZlv6awrDolUYY5x6swNgc3xXzo"],
  
 # 信息配置
 # 和风天气apikey
-"HE2208301806431760": "",
+"weather_key": "84633081d0584ce19b859cb2c05a6604",
 # 天行数据apikey
 "tian_api": "6e4e78e3f3b42c8ba851378c289fc86d",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
